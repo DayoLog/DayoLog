@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DayoLog
 - 👀 I’m interested in fun facts, food, and farming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on fun, low stakes projects 
+- 💞️ I’m looking to collaborate on fun, low stakes projects that will allow me to retire at 33
 - 📫 How to reach me ... carrier pigeon, smoke signal, email 
 
 <!---
